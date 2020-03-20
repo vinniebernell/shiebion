@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vaiphoong.ai-for-health.nl/sitemap.xml
